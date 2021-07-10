@@ -1,0 +1,7 @@
+192.168.1.100@CommandControl1
+192.168.1.101@CommandControl2
+192.168.1.102@VisionControl
+192.168.1.103@Intelligence
+192.168.2.103@CommandControl3
+192.168.2.103@CommandControl3
+192.168.2.103@CommandControl3
